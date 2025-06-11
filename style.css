@@ -1,4 +1,6 @@
 body{
+    margin: 0;
+    padding: 0;
     background-color: #2C5B2E;
     height: 100dvh;
     display:flex;
@@ -17,7 +19,7 @@ main{
 section.btn-container{
     display: flex;
     flex-direction: column;
-    gap: 20px;
+    gap: 15px;
     justify-content: center;
     align-items: center;
     
@@ -42,6 +44,10 @@ a.button {
     background-color: #fff;
     padding: 10px 20px;
     border-radius: 5px;
-    font-size: 18px;
+
+}
+
+strong > h2 {
+        font-size: 14px;
 
 }
