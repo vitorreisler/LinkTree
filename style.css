@@ -37,6 +37,7 @@ section.nomeCanal h1{
     text-align: center;
 }
 a.button {
+    min-width: 240px;
     max-width: 300px;
     text-align: center;
     text-decoration: none;
@@ -48,6 +49,6 @@ a.button {
 }
 
 strong > h2 {
-        font-size: 14px;
+        font-size: 16px;
 
 }
