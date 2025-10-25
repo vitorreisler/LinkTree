@@ -56,9 +56,10 @@ a.button:hover {
   text-align: center;
   text-decoration: none;
   color: #f8f8f8;
-  background-color: #020456;
+  background-color: #4749b2;
   padding: 10px 20px;
   border-radius: 5px;
+  transition-duration: .5s;
 }
 
 strong > h2 {
